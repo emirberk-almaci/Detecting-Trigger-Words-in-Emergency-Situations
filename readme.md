@@ -32,10 +32,14 @@ In this project, a deep learning model that can detect trigger words in emergenc
 
 ### Pre-trained Data
 
-You can access the pre-trained X and Y training files from this links: 
-[X, Y](https://drive.google.com/drive/folders/17b9RHVcXZRsDzC5jzrrUP3BIEqDm5Dex?usp=sharing)
-[X_dev, Y_dev](https://drive.google.com/drive/folders/1viXYi06NHXtHehskwQv96GvzC4wuvleg?usp=sharing).
-[X_train, Y_train](https://drive.google.com/drive/folders/1GtMtbYLMhNlxl9vc6waweW5v7Up6-uI4?usp=sharing).
+- **Train Set(X, Y)**: 
+  - [ X, Y](https://drive.google.com/drive/folders/17b9RHVcXZRsDzC5jzrrUP3BIEqDm5Dex?usp=sharing)
+
+- **Development Set (X_dev, Y_dev)**:
+  - [X_dev, Y_dev](https://drive.google.com/drive/folders/1viXYi06NHXtHehskwQv96GvzC4wuvleg?usp=sharing)
+
+- **Test Set (X_test, Y_test)**:
+  - [X_test, Y_test](https://drive.google.com/drive/folders/1GtMtbYLMhNlxl9vc6waweW5v7Up6-uI4?usp=sharing)
 
 
 ### Executing program
