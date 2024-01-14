@@ -30,6 +30,14 @@ In this project, a deep learning model that can detect trigger words in emergenc
      ```
    - Set the folder name where the notebook and data are stored.
 
+### Pre-trained Data
+
+You can access the pre-trained X and Y training files from this links: 
+[X, Y](https://drive.google.com/drive/folders/17b9RHVcXZRsDzC5jzrrUP3BIEqDm5Dex?usp=sharing)
+[X_dev, Y_dev](https://drive.google.com/drive/folders/1viXYi06NHXtHehskwQv96GvzC4wuvleg?usp=sharing).
+[X_train, Y_train](https://drive.google.com/drive/folders/1GtMtbYLMhNlxl9vc6waweW5v7Up6-uI4?usp=sharing).
+
+
 ### Executing program
 
 1. Run the Jupyter Notebook cell by cell.
