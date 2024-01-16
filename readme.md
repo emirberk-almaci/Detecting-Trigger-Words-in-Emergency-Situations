@@ -1,6 +1,6 @@
 # Detecting Trigger Words in Emergency Situations
 
-This project focuses on audio processing and model training using deep learning techniques. It's designed to work with audio data, perform preprocessing, and train a model to recognize specific audio patterns or commands.
+This project develops a deep learning model to detect trigger words in emergency situations, inspired by the "Trigger Word Detection" exercise from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). This project focuses on audio processing and model training using deep learning techniques. It's designed to work with audio data, perform preprocessing, and train a model to recognize specific audio patterns or commands. 
 
 ## Description
 
